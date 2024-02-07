@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Yume',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
@@ -39,7 +39,7 @@ const CONFIG = {
 	autoChangeTheme: false,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/',
 		},
 		{
 			id: '3',
