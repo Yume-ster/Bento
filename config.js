@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'TickTick',
+			icon: 'check-circle',
+			link: 'https://ticktick.com/webapp',
 		},
 		{
 			id: '6',
@@ -100,38 +100,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Tumblr',
-					link: 'https://www.tumblr.com/',
+					name: 'Nanowrimo',
+					link: 'https://nanowrimo.org/',
 				},
 				{
 					name: 'AO3',
 					link: 'https://archiveofourown.org/',
-				},
-				{
-					name: 'Art Rocket',
-					link: 'https://www.clipstudio.net/how-to-draw',
-				},
-				{
-					name: 'Nanowrimo',
-					link: 'https://nanowrimo.org/',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
-					name: 'Steam',
-					link: 'http://store.steampowered.com/',
-				},
-				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com/',
-				},
-				{
-					name: 'MoeWay',
-					link: 'https://djtguide.github.io/',
 				},
 				{
 					name: 'MonkeyType',
@@ -140,6 +114,28 @@ const CONFIG = {
 				{
 					name: 'DevDoc',
 					link: 'https://devdocs.io/',
+				},
+			],
+		},
+		{
+			icon: 'coffee',
+			id: '2',
+			links: [
+				{
+					name: 'Reddit',
+					link: 'https://www.reddit.com/',
+				},
+				{
+					name: 'Twitter',
+					link: 'https://twitter.com/home'
+				},
+				{
+					name: 'Steam',
+					link: 'http://store.steampowered.com/'
+				},
+				{
+					name: 'Tumblr',
+					link: 'https://www.tumblr.com/',
 				},
 			],
 		},
