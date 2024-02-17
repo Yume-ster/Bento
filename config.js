@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Yume',
+	name: 'Yume!',
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
+	greetingMorning: 'Good morning,',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'Time to sleep,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -104,12 +104,12 @@ const CONFIG = {
 					link: 'https://nanowrimo.org/',
 				},
 				{
-					name: 'AO3',
-					link: 'https://archiveofourown.org/',
-				},
-				{
 					name: 'MonkeyType',
 					link: 'https://monkeytype.com/',
+				},
+				{
+					name: 'Github',
+					link: 'https://github.com/',
 				},
 				{
 					name: 'DevDoc',
@@ -126,12 +126,12 @@ const CONFIG = {
 					link: 'https://www.reddit.com/',
 				},
 				{
-					name: 'Twitter',
-					link: 'https://twitter.com/home'
-				},
-				{
 					name: 'Steam',
 					link: 'http://store.steampowered.com/'
+				},
+				{
+					name: 'Twitter',
+					link: 'https://twitter.com/home'
 				},
 				{
 					name: 'Tumblr',
