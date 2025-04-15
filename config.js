@@ -100,8 +100,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Nanowrimo',
-					link: 'https://nanowrimo.org/',
+					name: 'ArchiveO3',
+					link: 'https://archiveofourown.org/',
 				},
 				{
 					name: 'MonkeyType',
