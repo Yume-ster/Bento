@@ -66,13 +66,13 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Spotify',
-			icon: 'disc-2',
+			icon: 'music',
 			link: 'https://open.spotify.com/',
 		},
 		{
 			id: '4',
 			name: 'Twitch',
-			icon: 'twitch',
+			icon: 'clapperboard',
 			link: 'https://www.twitch.tv/',
 		},
 		{
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'square-play',
 			link: 'https://www.youtube.com/',
 		},
 	],
